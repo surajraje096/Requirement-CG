@@ -1,0 +1,6 @@
+{
+  "name": "Requirement Quality Agent",
+  "description": "AI-powered Shift-Left Requirement Gap & Ambiguity Detection Agent with automated PO clarifications, testable acceptance criteria, and Gherkin QA automation generation.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
